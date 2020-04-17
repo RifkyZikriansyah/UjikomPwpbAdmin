@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "800244644640",
+    "firebase_url": "https://ujikompwpbadmin.firebaseio.com",
+    "project_id": "ujikompwpbadmin",
+    "storage_bucket": "ujikompwpbadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800244644640:android:05b6481f262e7070bf7545",
+        "android_client_info": {
+          "package_name": "com.example.ujikompwpbadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800244644640-kutacpa2ogu0ikaptdg2u29cglrgqsa0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ujikompwpbadmin",
+            "certificate_hash": "4f85687f1a2c0e3bfea701d7fa4d2fdb99d6d791"
+          }
+        },
+        {
+          "client_id": "800244644640-emncu0jp5d3tifuv4d2hu4ue51hs45ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9iSx9JINJveTmWbTQA7LpqLJDIkY-kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800244644640-emncu0jp5d3tifuv4d2hu4ue51hs45ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
