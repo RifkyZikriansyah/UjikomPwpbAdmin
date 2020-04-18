@@ -100,7 +100,7 @@
                 android:textColor="@color/colorDark"
                 android:layout_marginTop="@dimen/_8sdp"
                 android:fontFamily="@font/poppinssemibold"
-                android:text="@string/username"
+                android:text="@string/email"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/txt_phone" />
 
@@ -110,7 +110,7 @@
                 android:layout_height="@dimen/_21sdp"
                 android:background="@drawable/text_field_login"
                 android:fontFamily="@font/poppinsmedium"
-                android:inputType="text"
+                android:inputType="textEmailAddress"
                 android:textColor="@color/colorWhite"
                 android:textColorHint="@color/colorWhite"
                 android:textSize="@dimen/_12ssp"
