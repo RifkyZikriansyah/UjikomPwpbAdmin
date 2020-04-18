@@ -38,6 +38,7 @@
     <string name="verified">Verified</string>
     <string name="txt_report_clear">Didekat stasiun cawang ada sebuah perlintasan kereta namun tidak ada penutupnya itu snagat membahyakan</string>
     <string name="txt_answer_clear">Laporan anda sudah kami kerjakan, terima kasih atas laporannya</string>
+    <string name="email">Email *</string>
 
 
 </resources>
